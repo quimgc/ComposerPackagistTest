@@ -1,0 +1,13 @@
+{
+    "name": "quimgc/hello-test",
+    "require": {
+        "quimgc/hello-ng": "^0.1.0"
+    },
+    "authors": [
+        {
+            "name": "quimgc",
+            "email": "quimgonzalez@iesebre.com"
+        }
+    ]
+
+}
