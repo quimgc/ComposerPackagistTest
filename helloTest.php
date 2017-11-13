@@ -6,6 +6,7 @@
  * Time: 19:31
  */
 
+use 'Quimgc\Hello';
 
 require 'vendor/autoload.php';
 
